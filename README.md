@@ -1,3 +1,10 @@
+## (ATTENTION SOME OF THE TOOLS OF THE SAHDOWBROKERS LEAK CONTAINS A NSA VIRUS THAT YOU NEED TO TRACE THE HACKERS AROUND THE WORLD... USE ONLY IN A  OFFLINE DEMILITARIZED SYSTEM!!!)
+
+READ HERE: https://thehackernews.com/2018/03/nsa-hackers-tracking.html
+
+
+
+
 # DanderSpirtz documentation
 The goal of this project is to document the different capabilities and functionality of the DanderSpirtz post-exploitation framework / application by examining the contents of the "resources" folder included in the ShadowBrokers leak and doing live testing of the system.
 
